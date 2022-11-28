@@ -6,4 +6,4 @@ number = int(input("Which number do you want to check? "))
 type = "odd"
 if (number % 2 == 0):
         type = "even"
-        print(f"This is an {type} number")
+print(f"This is an {type} number")
